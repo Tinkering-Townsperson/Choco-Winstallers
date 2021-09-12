@@ -11,5 +11,5 @@ choco install rufus
 choco install processhacker
 choco install powertoys
 choco install vnc-viewer
-choco install git
+choco install gh
 choco install github-desktop
