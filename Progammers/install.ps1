@@ -1,0 +1,15 @@
+choco install googlechrome.dev
+choco install atom
+choco install vlc
+choco install python
+choco install wget
+choco install ruby
+choco install golang
+choco install hashtab
+choco install putty
+choco install rufus
+choco install processhacker
+choco install powertoys
+choco install vnc-viewer
+choco install git
+choco install github-desktop
