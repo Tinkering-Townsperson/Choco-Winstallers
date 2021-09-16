@@ -15,4 +15,6 @@ choco install github-desktop
 
 choco install wget-y
 refreshenv
+cd Downloads
 wget https://mh-nexus.de/downloads/HxDSetup.zip
+explorer
