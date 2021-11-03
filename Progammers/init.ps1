@@ -19,5 +19,5 @@ choco install vnc-viewer
 choco install wget
 choco install windirstat
 
-echo "Going to downloads website"
-start msedge
+echo "Going to downloads Page"
+start msedge https://tinkering-townsperson.github.io/Choco-Winstallers/downloads
