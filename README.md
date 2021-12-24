@@ -4,7 +4,7 @@
 ###### Here's a link to their [GitHub Repository](https://github.com/chocolatey/choco)
 
 <hr>
-## NOTE!!!
+## NOTE
 <br>
 This repo may be abandoned. If you want to see this go on, please tell me in the comments.
 I am currently working on the [gui app-store-like version of this](https://github.com/Tinkering-Townsperson/TTAppStore)
