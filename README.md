@@ -5,6 +5,5 @@
 
 <hr>
 ## NOTE
-<br>
 This repo may be abandoned. If you want to see this go on, please tell me in the comments.
-I am currently working on the [gui app-store-like version of this](https://github.com/Tinkering-Townsperson/TTAppStore)
+I am currently working on the [Gui app-store-like version of this](https://github.com/Tinkering-Townsperson/TTAppStore)
